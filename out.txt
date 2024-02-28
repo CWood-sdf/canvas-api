@@ -1,0 +1,3 @@
+Started canvas import
+Started canvas import
+false"attempt to call a nil value"Ended canvas import
